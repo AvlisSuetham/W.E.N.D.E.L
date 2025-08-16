@@ -25,9 +25,7 @@ Cada fase foi pensada para testar não apenas sua habilidade, mas também sua cr
 
 ## 📥 Como jogar
 
-1. Baixe a versão mais recente em **[Releases](./releases)**.  
-2. Extraia os arquivos em uma pasta de sua escolha.  
-3. Execute o jogo (`Zendel.exe`).  
+Acesse o Link para Gameplay: https://avlissuetham.github.io/Z.E.N.DE.L/ 
 
 ---
 
