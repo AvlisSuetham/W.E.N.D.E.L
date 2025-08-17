@@ -1,4 +1,4 @@
-# 🎮 Z.E.N.D.E.L
+# 🎮 W.E.N.D.E.L
 
 **Z.E.N.D.E.L** é um jogo de plataforma 2D em desenvolvimento, criado com dedicação para explorar desafios clássicos e mecânicas modernas.  
 Este é um projeto da **Sophira**, que busca trazer experiências únicas em jogos e softwares.
@@ -7,7 +7,7 @@ Este é um projeto da **Sophira**, que busca trazer experiências únicas em jog
 
 ## 🚀 Sobre o jogo
 
-Em **Z.E.N.D.E.L**, você assume o papel de um explorador em um mundo misterioso e desafiador.  
+Em **W.E.N.D.E.L**, você assume o papel de um explorador em um mundo misterioso e desafiador.  
 Cada fase foi pensada para testar não apenas sua habilidade, mas também sua criatividade na forma de superar obstáculos.
 
 - ⚔️ Inimigos com inteligência simples, mas traiçoeiros.  
